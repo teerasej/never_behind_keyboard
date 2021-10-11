@@ -22,6 +22,7 @@ Make your form area and its specific bottom never be put behind the on-screen ke
 ## Limitation
 
 - Currently support only one area's bottom per never behind area
+- I use `Scrollable.ensureVisible()` to scroll to target widget. But somehow, I found the animation is not completely smooth. you can try it with [demo project](https://github.com/teerasej/flutter_never_behind_keyboard/tree/use-local-package)
 
 ## Getting started
 
