@@ -1,3 +1,8 @@
+
+## 1.0.1
+
+* update link to demo project
+
 ## 1.0.0
 
 * Provide Never behind keyboard area for your input form
