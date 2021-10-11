@@ -1,3 +1,5 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+* Provide Never behind keyboard area for your input form
+* Support `TextField` and `TextFormField`
+* Detect multiple focus source, for example you can put several `TextField` or `TextFormField` as focus source

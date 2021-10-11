@@ -26,7 +26,7 @@ The area below the `TextField` or `TextFormField` can be anything.
 ## Limitation
 
 - Currently support only one area's bottom per never behind area
-- I use `Scrollable.ensureVisible()` to scroll to target widget. But somehow, I found the animation is not completely smooth. you can try it with [demo project](https://github.com/teerasej/flutter_never_behind_keyboard/tree/use-local-package)
+- I use `Scrollable.ensureVisible()` to scroll to target widget. But somehow, I found the animation is not completely smooth. you can try it with [demo project](https://github.com/teerasej/flutter_never_behind_keyboard)
 
 ## Getting started
 
