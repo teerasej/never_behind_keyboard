@@ -11,12 +11,17 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+Make your form area and its specific bottom never be put behind the on-screen keyboard.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- Provide Never behind keyboard area for your input form
+- Detect from multiple focus source
+- Support for `TextField` and `TextFormField`
+
+## Limitation
+
+- Currently support only one area's bottom per never behind area
 
 ## Getting started
 
