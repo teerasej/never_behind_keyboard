@@ -1,4 +1,9 @@
 
+## 1.0.2
+
+* Add reference link to akexorcist's library
+
+
 ## 1.0.1
 
 * update link to demo project

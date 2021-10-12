@@ -1,6 +1,6 @@
 name: never_behind_keyboard
 description: Make your form area and its specific bottom never be put behind the on-screen keyboard.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/teerasej/never_behind_keyboard
 
 environment:
